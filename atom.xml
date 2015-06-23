@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[我独自走过你身旁~]]></title>
+  <subtitle><![CDATA[任时光匆匆流逝~]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="ch3nbo.github.io/"/>
+  <updated>2015-06-23T07:33:15.451Z</updated>
+  <id>ch3nbo.github.io/</id>
+  
+  <author>
+    <name><![CDATA[chen Bo]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Scarlet Witch]]></title>
+    <link href="ch3nbo.github.io/article/Scarlet-Witch/"/>
+    <id>ch3nbo.github.io/article/Scarlet-Witch/</id>
+    <published>2015-06-23T07:26:26.000Z</published>
+    <updated>2015-06-23T07:33:15.451Z</updated>
+    <content type="html"><![CDATA[<p>hi~<br><a id="more"></a><br><img src="/images/Scarlet Witch.jpg" alt="missing"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>hi~<br>]]>
+    
+    </summary>
+    
+      <category term="MM" scheme="ch3nbo.github.io/tags/MM/"/>
+    
+      <category term="Movie" scheme="ch3nbo.github.io/tags/Movie/"/>
+    
+      <category term="miss" scheme="ch3nbo.github.io/categories/miss/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[心里有座坟,葬着未亡人]]></title>
+    <link href="ch3nbo.github.io/article/weiwangren/"/>
+    <id>ch3nbo.github.io/article/weiwangren/</id>
+    <published>2015-05-11T09:57:18.000Z</published>
+    <updated>2015-06-23T07:33:03.833Z</updated>
+    <content type="html"><![CDATA[<p>hi~<br><a id="more"></a><br><img src="/images/005CfBldtw1er0if694kog309q06c1ky.gif" alt="missing"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>hi~<br>]]>
+    
+    </summary>
+    
+      <category term="伤" scheme="ch3nbo.github.io/tags/%E4%BC%A4/"/>
+    
+      <category term="心" scheme="ch3nbo.github.io/tags/%E5%BF%83/"/>
+    
+      <category term="miss" scheme="ch3nbo.github.io/categories/miss/"/>
+    
+  </entry>
+  
+</feed>
